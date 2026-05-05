@@ -1,6 +1,0 @@
-stage=plots_complete
-batch=1
-total_batches=1
-elapsed_seconds=0.79
-eta_seconds=0.0
-partial_csv=C:\Users\kulbi\Documents\Projects\AP Research\data\processed\checkpoints\corpus_with_results.partial.csv

@@ -1,3 +1,0 @@
-chunk_id,doc_id,source,year,journal,section,chunk_index,start_sentence,n_sentences,word_count,text,text_hash,raw_doc_path
-id0,D1,PMC,2019,J,introduction,0,0,3,160,This is a test chunk of roughly the same text.,36c6c409e34d1bb5f55a9c2386deb6089876385f47fc284cf30af277c404dda3,
-id1,D1,PMC,2019,J,introduction,1,0,3,161,This is a test chunk of roughly the same text. extra,84915f9b4eb8cbfc8cb70bbc8dc4642d72427f2d3991ef6a9a95d5fe51dd223c,
